@@ -1,0 +1,19 @@
+PlayIt  
+
+Frontend → HTML CSS JAVASCRIPT ⇒ React 
+
+Backend → Python, Django
+
+Project/File Structure → GitHub
+
+Database → SQL
+
+Deploy → Azure
+
+Web Server Application → Apache web server Open Source 
+
+Music Player website with these features (Spotify ++)
+
+Music Player
+Dashboard which includes charts for analytics of different music
+ https://www.youtube.com/watch?v=I1cpb0tYV74
